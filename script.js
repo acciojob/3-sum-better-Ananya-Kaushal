@@ -1,7 +1,6 @@
 function threeSum(arr, target) {
 // write your code here
 	Array.sort(arr);
-	let ans[]={};
 	let i=0;
 	let n=arr.length;
 	let diff=Number.MAX_VALUE;
